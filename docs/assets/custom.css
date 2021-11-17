@@ -1,0 +1,22 @@
+.app-nav > ul > li > ul {
+    width: max-content;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    margin-top: 40px;
+}
+
+img::before {
+    content: ''
+}
+
+.caption {
+    margin-bottom: 40px;
+}
+:root {
+    --content-max-width: 80%;
+}

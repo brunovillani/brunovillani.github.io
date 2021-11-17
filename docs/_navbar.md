@@ -1,0 +1,4 @@
+- 🌐 Lang.
+  - [:brazil: Português](/pt-br/)
+  - [:uk: English](/uk/)
+  - [:fr: Français](/fr/)
