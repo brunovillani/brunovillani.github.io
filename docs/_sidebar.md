@@ -1,1 +1,1 @@
-* [Tech Shares](/tech-share/index.md)
+* [Tech Shares](./tech-share/index.md)
