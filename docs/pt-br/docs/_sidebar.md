@@ -1,2 +1,2 @@
 **Português**
-* [Tech Shares](/tech-share/)
+* [Tech Shares](./tech-share/)

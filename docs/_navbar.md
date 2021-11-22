@@ -1,4 +1,4 @@
 - 🌐 Lang.
-  - [:brazil: Português](/pt-br/)
-  - [:uk: English](/uk/)
-  - [:fr: Français](/fr/)
+  - [:brazil: Português](/pt-br/docs/)
+  - [:uk: English](/uk/docs/)
+  - [:fr: Français](/fr/docs/)

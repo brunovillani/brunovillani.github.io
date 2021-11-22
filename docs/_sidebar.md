@@ -1,1 +1,0 @@
-* [Tech Shares](./tech-share/index.md)

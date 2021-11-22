@@ -19,17 +19,19 @@
     window.$docsify = {
       el: '#app',
       repo: 'https://github.com/brunovillani?tab=repositories',
+      relativePath: true,
       auto2top: true,
       loadSidebar: true,
-      loadNavbar: false,
+      loadNavbar: true,
       alias: {
         '/.*/_navbar.md': '/_navbar.md',
-        // '/.*/_sidebar.md': '/.*/docs/_sidebar.md',
-        // '/': '/uk/docs',
-        '/uk/(.*)': '/uk/docs/',
-        '/fr/(.*)': '/fr/docs/',
-        '/pt-br/(.*)': '/pt-br/docs/'
+        '/uk/(.*)/': '/uk/docs/',
+        '/fr/(.*)/': '/fr/docs/',
+        '/pt-br/(.*)/': '/pt-br/docs/'
       }
+    }
+    if (window.location.pathname == '/') {
+      window.location.assign('/#/uk/docs/');
     }
   </script>
   <!-- Docsify v4 -->
